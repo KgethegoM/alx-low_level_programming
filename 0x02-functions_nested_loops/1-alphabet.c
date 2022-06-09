@@ -4,9 +4,9 @@
  * print_alphabets -> printing th alphabets in lowcase
  */
 
-void print_alphabet(void);
+void print_alphabet(void)
 {
-	int j;
+	int i;
 
 	for (i = 'a' ; i <= 'z' ; i++)
 	{
